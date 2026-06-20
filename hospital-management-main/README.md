@@ -92,8 +92,8 @@ The **Hospital Management System** is a simple command-line application designed
      ```
 4. **Compile and Run:**
    ```bash
-   javac -cp ".;lib/mysql-connector-j-9.1.0.jar" src/*.java
-   java -cp ".;lib/mysql-connector-j-9.1.0.jar;src" HospitalManagement
+   javac -cp ".;lib/mysql-connector-j-9.7.0.jar" src/*.java
+   java -cp ".;lib/mysql-connector-j-9.7.0.jar;src" HospitalManagement
    ```
 
 ---
