@@ -1,1 +1,0 @@
-# hospitalization-handling-system
